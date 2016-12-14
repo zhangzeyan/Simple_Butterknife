@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>东莞市</item>
+        <item>广州市</item>
+        <item>珠海市</item>
+        <item>肇庆市</item>
+        <item>深圳市</item>
+    </string-array>
+
+</resources>
